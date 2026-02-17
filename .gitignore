@@ -1,0 +1,4 @@
+node_modules/
+.env
+# Données de blacklist générées à l'exécution (le dossier data/ existe avec .gitkeep)
+auth-service/data/blacklist.json
